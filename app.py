@@ -51,7 +51,7 @@ It is based upon a pre-trained Image Classification Model that comes with Keras 
 
 st.title("🐕‍🦺DOG BREED CLASSIFICATION🐕")
 st.header("Identify what's in your dog photos!")
-st.write("To know more about this app, visit [**GitHub**](https://github.com/Parvez13/Food101_Classification)")
+st.write("To know more about this app, visit [**GitHub**](https://github.com/Parvez13/dog_classification)")
 file = st.file_uploader(label="Upload an image of dog.",
                         type=["jpg", "jpeg", "png"])
 
